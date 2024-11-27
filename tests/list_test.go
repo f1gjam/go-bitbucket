@@ -2,10 +2,9 @@ package tests
 
 import (
 	"fmt"
+	"github.com/f1gjam/go-bitbucket"
 	"os"
 	"testing"
-
-	"github.com/ktrysmt/go-bitbucket"
 )
 
 func TestList(t *testing.T) {
